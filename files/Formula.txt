@@ -1,0 +1,9 @@
+Total_bill_amount = z
+Flatmate1_days_stayed = x
+Flatmate2_days_stayed = y
+total_days_stayed_by_flatmates = x + y
+
+
+flatmate1_bill =  z * (x / x +y)
+
+flatmate2_bill =  z * (y / x +y)
